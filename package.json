@@ -1,0 +1,19 @@
+{
+  "name": "flappybirdgame",
+  "version": "1.0.0",
+  "description": "A 2D flappy bird game using Phaser",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdlogan9/jsflappybirdgame.git"
+  },
+  "author": "cdlogan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdlogan9/jsflappybirdgame/issues"
+  },
+  "homepage": "https://github.com/cdlogan9/jsflappybirdgame#readme"
+}
